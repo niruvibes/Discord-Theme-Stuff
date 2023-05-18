@@ -1,8 +1,7 @@
-
 :root {
   /* Change colors here (in HSL) */
-  --spotify-vencord-color: 213, 19%, 36%;
-  --spotify-vencord-text: 210, 8%, 85%;
+  --spotify-vencord-color: 240deg 60% 60%;
+  --spotify-vencord-text: 100deg 50% 100%;
 
   /* Spotify Vencord color theme */
   --spotify-vencord-wave-width: 240px;

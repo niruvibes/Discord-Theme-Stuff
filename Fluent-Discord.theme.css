@@ -27,10 +27,10 @@
   --fluent-accent-lightness: 42%;
   --fluent-text-on-accent-color: 0, 0, 0;
   --fluent-acrylic-background: url(https://raw.githubusercontent.com/niruvibes/Discord-Theme-Stuff/main/assets/wallapepr.jpg);
-  --fluent-acrylic-background-blur: 24px;
-  --fluent-acrylic-background-dimness: 75%;
+  --fluent-acrylic-background-blur: 15px;
+  --fluent-acrylic-background-dimness: 50%;
   --fluent-acrylic-background-saturate: 140%;
-  --fluent-guilds-icon-size: 24px;
+  --fluent-guilds-icon-size: 48px;
 }
 
 /**
